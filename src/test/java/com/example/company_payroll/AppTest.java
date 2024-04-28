@@ -33,7 +33,7 @@ public class AppTest
 		
 		public void testFullTimeEmployeeMonthlySalary()
 	    {
-			  
+			  //
 		        assertEquals(fp.calcSalary(), 2600.54);
 	    }
 		
