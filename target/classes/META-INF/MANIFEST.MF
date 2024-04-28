@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: ogbon
+Build-Jdk: 17.0.10
+Main-Class: com.mypackage.MyClass
+Created-By: Maven Integration for Eclipse
+
